@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /index.php
+Disallow: /form-process.php
+Disallow: /Musab Jummal.pdf
+Disallow: /js
+Sitemap: http://musabjummal.ml/
